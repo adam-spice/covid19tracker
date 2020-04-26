@@ -23,7 +23,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/adam-spice/covid19tracker">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -32,10 +32,10 @@
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/adam-spice/covid19tracker"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/adam-spice/covid19tracker">View Demo</a>
     ·
     <a href="https://github.com/adam-spice/covid19tracker/issues">Report Bug</a>
     ·
@@ -182,15 +182,15 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/adam-spice/covid19tracker.svg?style=flat-square
 [contributors-url]: https://github.com/adam-spice/covid19tracker/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/adam-spice/covid19tracker.svg?style=flat-square
 [forks-url]: https://github.com/adam-spice/covid19tracker/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/adam-spice/covid19tracker.svg?style=flat-square
 [stars-url]: https://github.com/adam-spice/covid19tracker/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/adam-spice/covid19tracker.svg?style=flat-square
 [issues-url]: https://github.com/adam-spice/covid19tracker/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/adam-spice/covid19tracker.svg?style=flat-square
 [license-url]: https://github.com/adam-spice/covid19tracker/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
