@@ -1,0 +1,3 @@
+{
+  "apps": [{ "name": "Covid", "script": "node", "args": "index.js" }]
+}
